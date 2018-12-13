@@ -1,0 +1,21 @@
+Character Strings Data Types
+Sr.No.	DATA TYPE & Description
+1	
+char
+
+Maximum length of 8,000 characters.( Fixed length non-Unicode characters)
+
+2	
+varchar
+
+Maximum of 8,000 characters.(Variable-length non-Unicode data).
+
+3	
+varchar(max)
+
+Maximum length of 2E + 31 characters, Variable-length non-Unicode data (SQL Server 2005 only).
+
+4	
+text
+
+Variable-length non-Unicode data with a maximum length of 2,147,483,647 characters.
