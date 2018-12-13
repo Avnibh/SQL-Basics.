@@ -1,0 +1,22 @@
+The SQL USE statement is used to select any existing database in the SQL schema.
+
+Syntax
+The basic syntax of the USE statement is as shown below -
+
+USE DatabaseName;
+Always the database name should be unique within the RDBMS.
+
+Example
+You can check the available databases as shown below -
+
+SQL> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| AMROOD             |
+| TUTORIALSPOINT     |
+| mysql              |
+| orig               |
+| test               |
++--------------------+
